@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">مرحبًا، أنا عبدالله 👋</h1>
 
-<!--
-**vvjxl/vvjxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">مطور واجهات أمامية وطالب دبلوم برمجة الويب ❤️</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  ![عدد الزيارات](https://komarev.com/ghpvc/?username=abdullah&label=عدد%20الزيارات&color=blue)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ المهارات
+
+- HTML / CSS
+- JavaScript (مستوى مبتدئ)
+- PHP / SQL
+- Bootstrap
+- ++C (مستوى متوسط)
+
+---
+
+### 📁 بعض مشاريعي
+
+- 🔐 [صفحة تسجيل دخول احترافية](https://abdullah.github.io/portfolio/login.html)
+- 🛒 [واجهة متجر إلكتروني](https://abdullah.github.io/portfolio/store.html)
+- ⚙️ [لوحة تحكم بلغة PHP](https://abdullah.github.io/portfolio/dashboard.php)
+
+---
+
+### 📬 تواصل معي
+
+- 📧 Email: [vvjxl.707@gmail.com](mailto:vvjxl.707@gmail.com)
+- 💻 GitHub: [github.com/abdullah](https://github.com/vvjxl)
+- 🌐 [صفحتي على GitHub Pages](https://vvjxl.github.io/portfolio/)
+
+---
